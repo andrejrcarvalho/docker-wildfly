@@ -1,4 +1,4 @@
-FROM jboss/wildfly:latest
+FROM jboss/wildfly:22.0.1.Final
 
 # variables
 ENV MAVEN_REPOSITORY                https://repo1.maven.org/maven2
