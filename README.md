@@ -18,7 +18,7 @@ This environment variables allow the wildfly to automatically create a datasourc
 
 - 8080 - Http port
 - 9990 - Admin console port
-- 8787 - Debuging port
+- 8787 - Debugging port
 
 **Debugging:**
 To be able to debug your code you have to enable the debug by set the environment variable DEBUGGING to true, and you also have to forward the port 8787 to the host to be able to attach the debugger to it.
